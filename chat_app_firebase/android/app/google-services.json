@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "515015243139",
+    "project_id": "week8-ligin-chat",
+    "storage_bucket": "week8-ligin-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515015243139:android:9179ce135355cc48fdb2b6",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515015243139-ahrt031ofbskmav0uf4h5vij07tjkt8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPD2fT9gnGld7u4Zr689YfhslhHvk4cGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515015243139-ahrt031ofbskmav0uf4h5vij07tjkt8l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "515015243139-e51vpcsspo1t44pa2ic0dtq2k21vhrb5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatAppFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
